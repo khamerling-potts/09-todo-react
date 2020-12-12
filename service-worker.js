@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/09-todo-react-khamerling-potts/precache-manifest.d0451f9f438277251c2f99f1f41e6e09.js"
+  "/09-todo-react-khamerling-potts/precache-manifest.3c966e56a28f9742e40398bda68f45a9.js"
 );
 
 workbox.clientsClaim();

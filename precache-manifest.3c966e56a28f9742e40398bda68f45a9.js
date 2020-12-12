@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "9c8a19f23993ac3630a9",
-    "url": "/09-todo-react-khamerling-potts/static/css/main.b037fdd1.chunk.css"
+    "revision": "59a443617c9ff2a5a4a4",
+    "url": "/09-todo-react-khamerling-potts/static/css/main.3d3d0b02.chunk.css"
   },
   {
-    "revision": "9c8a19f23993ac3630a9",
-    "url": "/09-todo-react-khamerling-potts/static/js/main.9c8a19f2.chunk.js"
+    "revision": "59a443617c9ff2a5a4a4",
+    "url": "/09-todo-react-khamerling-potts/static/js/main.59a44361.chunk.js"
   },
   {
     "revision": "773fedcca2e46286e9a3",
@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/09-todo-react-khamerling-potts/static/js/runtime~main.5e376a1e.js"
   },
   {
-    "revision": "e0b674b4f15b1dca283422533b919362",
+    "revision": "34dbdb78ce3de1aa534756908812e512",
     "url": "/09-todo-react-khamerling-potts/index.html"
   }
 ];
